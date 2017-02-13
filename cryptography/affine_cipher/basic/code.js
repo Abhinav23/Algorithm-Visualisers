@@ -1,5 +1,5 @@
 /*
- code assumes that plainText contains ONLY LOWER CASE ALPHABETS
+ code assumes that plainText contains ONLY LOWER CASE ALPHABETS GG.
  */
 
 Number.prototype.mod = function (n) {
